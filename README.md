@@ -80,6 +80,40 @@ Security Groups
 2. Attach to the EC2 instance we will use to migrate data to RDS - PORT 22
 3. RDS instance security group - port 3306
 
+![images](images/Screenshot_24.png)
+
+![images](images/Screenshot_25.png)
+
+CREATE ENDPOINT
+
+![images](images/Screenshot_26.png)
+
+![images](images/Screenshot_27.png)
+
+AMAZON RDS SUBNETS
+
+![images](images/Screenshot_28.png)
+
+![images](images/Screenshot_29.png)
+
+AMAZON RDS
+
+![images](images/Screenshot_30.png)
+
+![images](images/Screenshot_31.png)
+
+![images](images/Screenshot_32.png)
+
+![images](images/Screenshot_33.png)
+
+![images](images/Screenshot_34.png)
+
+![images](images/Screenshot_35.png)
+
+![images](images/Screenshot_36.png)
+
+
+
 
 
 
