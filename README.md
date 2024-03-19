@@ -114,7 +114,6 @@ AMAZON RDS
 
 ## Docker
 
-![images](images/Screenshot_37.png)
 
 ![images](images/Screenshot_38.png)
 
@@ -125,6 +124,10 @@ AMAZON RDS
 ![images](images/Screenshot_42.png)
 
 ![images](images/Screenshot_43.png)
+
+
+![images](images/Screenshot_45.png)
+
 
 ### Building and Pushing Docker Image to ECR
 
