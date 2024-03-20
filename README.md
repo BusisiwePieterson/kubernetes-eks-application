@@ -131,6 +131,20 @@ AMAZON RDS
 
 ### Building and Pushing Docker Image to ECR
 
+![images](images/Screenshot_46.png)
+
+![images](images/Screenshot_47.png)
+
+![images](images/Screenshot_48.png)
+
+![images](images/Screenshot_49.png)
+
+![images](images/Screenshot_50.png)
+
+![images](images/Screenshot_51.png)
+
+![images](images/Screenshot_52.png)
+
 
 
 
