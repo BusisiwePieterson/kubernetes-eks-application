@@ -147,6 +147,38 @@ AMAZON RDS
 
 
 
+S3 Bucket Setup and SQL Script Upload
+
+![images](images/Screenshot_53.png)
+
+![images](images/Screenshot_52.png)
+
+
+Upload SQL script to S3 bucket
+
+![images](images/Screenshot_53.png)
+
+![images](images/Screenshot_54.png)
+
+![images](images/Screenshot_55.png)
+
+
+
+Create IAM Role with S3 Access
+
+![images](images/Screenshot_56.png)
+
+![images](images/Screenshot_57.png)
+
+![images](images/Screenshot_58.png)
+
+Next Launch an EC2 Instance in the Private App Subnet
+
+
+
+
+
+
 
 
 
