@@ -174,6 +174,81 @@ Create IAM Role with S3 Access
 
 Next Launch an EC2 Instance in the Private App Subnet
 
+We use this instance to migrate our data to RDS
+
+![images](images/Screenshot_58.png)
+
+![images](images/Screenshot_59.png)
+
+![images](images/Screenshot_60.png)
+
+![images](images/Screenshot_61.png)
+
+![images](images/Screenshot_62.png)
+
+![images](images/Screenshot_63.png)
+
+![images](images/Screenshot_65.png)
+
+#### Data Migration to RDS
+
+![images](images/Screenshot_66.png)
+
+![images](images/Screenshot_65.png)
+
+![images](images/Screenshot_66.png)
+
+![images](images/Screenshot_67.png)
+
+![images](images/Screenshot_68.png)
+
+![images](images/Screenshot_69.png)
+
+#### EC2 Instance Termination
+
+![images](images/Screenshot_70.png)
+
+![images](images/Screenshot_71.png)
+
+
+### Install kubectl, eksctl, and Helm
+
+![images](images/Screenshot_72.png)
+
+![images](images/Screenshot_73.png)
+
+
+### Create a Secret in Secret Manager
+
+Add all the envirnoment variables in our dockerfile as secrets in the aws secretes manager
+
+![images](images/Screenshot_74.png)
+
+![images](images/Screenshot_75.png)
+
+![images](images/Screenshot_76.png)
+
+Now lets enable the EKS Cluster to retrive the secret we stored, we create an IAM policy
+
+![images](images/Screenshot_77.png)
+
+![images](images/Screenshot_78.png)
+
+![images](images/Screenshot_79.png)
+
+![images](images/Screenshot_80.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
