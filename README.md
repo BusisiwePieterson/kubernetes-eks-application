@@ -265,6 +265,58 @@ Before we create an EKS cluster, we first have to create an IAM role for the clu
 
 ![images](images/Screenshot_90.png)
 
+Modify the security group of RDS to allow traffic from the EKS Cluster we created.
+
+![images](images/Screenshot_91.png)
+
+Now its time to create the Worker Nodes, worker nodes are responsible for hosting the containerised application.
+
+
+![images](images/Screenshot_92.png)
+
+![images](images/Screenshot_93.png)
+
+![images](images/Screenshot_94.png)
+
+
+## Node Group Creation
+
+Create worker nodes
+
+![images](images/Screenshot_95.png)
+
+![images](images/Screenshot_96.png)
+
+![images](images/Screenshot_97.png)
+
+![images](images/Screenshot_98.png)
+
+![images](images/Screenshot_99.png)
+
+![images](images/Screenshot_100.png)
+
+![images](images/Screenshot_101.png)
+
+
+Thi is the EC2 that was created by the EKS auto scaling, this will be our worker node.
+
+![images](images/Screenshot_102.png)
+
+![images](images/Screenshot_103.png)
+
+![images](images/Screenshot_104.png)
+
+
+## CREATING KUBERNETES MANIFEST FILES
+
+
+
+
+
+
+
+
+
 
 
 
