@@ -240,6 +240,32 @@ Now lets enable the EKS Cluster to retrive the secret we stored, we create an IA
 
 
 
+EKS Cluster IAM Role Creation
+
+Before we create an EKS cluster, we first have to create an IAM role for the cluster https://docs.aws.amazon.com/eks/latest/userguide/service_IAM_role.html#create-service-role
+
+
+![images](images/Screenshot_81.png)
+
+![images](images/Screenshot_82.png)
+
+![images](images/Screenshot_83.png)
+
+![images](images/Screenshot_84.png)
+
+![images](images/Screenshot_85.png)
+
+![images](images/Screenshot_86.png)
+
+![images](images/Screenshot_87.png)
+
+![images](images/Screenshot_88.png)
+
+![images](images/Screenshot_89.png)
+
+![images](images/Screenshot_90.png)
+
+
 
 
 
