@@ -310,7 +310,12 @@ Thi is the EC2 that was created by the EKS auto scaling, this will be our worker
 ## CREATING KUBERNETES MANIFEST FILES
 
 
+Now its time to deploy the Pod within the worker node
 
+
+
+
+### EKS Deployment and DNS Setup
 
 
 
